@@ -23,6 +23,7 @@ body{
 .little-head {
   width: 100%;
   max-width: 400px;
+  margin: 0 auto;
   background-color: rgb(41, 215, 221);
 }
 .input-area {
